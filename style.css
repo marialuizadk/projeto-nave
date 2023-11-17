@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+h1{
+  text-align:center;
+  text-decoration-color: rgb(255, 255, 255)
+}
+body{
+  background-color: rgb(56, 56, 54);
+}
+.jogo{
+  position:center;
+}
+main{
+  position:relative;
+  top: 50px;
+  left: 90px;
+}
+
+
+
+
